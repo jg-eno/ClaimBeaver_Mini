@@ -32,7 +32,7 @@ ClaimBeaver_Mini/
 
 ## Prerequisites
 
-- Python 3.8 or higher
+- Python 3.12 or higher
 - MySQL database with healthcare claims data
 - API key for either OpenAI or Google Gemini (depending on which LLM you want to use)
 
